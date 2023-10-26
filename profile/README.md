@@ -1,19 +1,39 @@
-## Hello there!
+# ETHTPS
 
-Welcome to ETHTPS. This is the place for the second version of ethtps.info, a website that provides information about Ethereum network's the number of transactions per second and their complexity.
+*Without getting into too much detail, there was code involved...*
 
-The website is currently under construction and a public alpha will follow soon. The first version of the website can be found [here](https://ethtps.info/).
+## Disclaimer
 
-You can check out our public repos [here](https://github.com/orgs/ethtps/repositories). Here are some quick links to the most important ones:
+##### Please note that this document is a work in progress and the information provided here is subject to change, in addition to the fact that trying to follow these instructions will be a complete waste of your time *unless* you have access to the private repos.
 
-- [backend](https://github.com/ethtps/ethtps.backend) (API)
+## Environment setup instructions
 
-- [frontend](https://github.com/ethtps/ethtps.frontend)
+### Prerequisites
 
-- [50,000 ft. architecture overview](https://github.com/ethtps/.github/blob/main/ARCHITECTURE.md)
+Before starting, make sure you have the following installed:
 
-Please note that not all repos are public yet. We will make all required code public as soon as possible.
+#### Mandatory
 
-If you want to help, check out the social media links at the top.
+- git
 
-Ethereum.
+- [nvm](https://github.com/nvm-sh/nvm)
+
+- [dotnet SDK - latest RC](https://dotnet.microsoft.com/en-us/download)
+
+- [docker](https://docs.docker.com/install/)
+
+- [docker-compose](https://docs.docker.com/compose/install/)
+
+#### Recommended
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+- [Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/) - for working with SQL Server
+
+#### Optional
+
+- [Postman](https://www.getpostman.com/) - for testing APIs
+
+### Setup
+
+There are a *lot* of things that need to configured in order to run ETHTPS. Thankfully, we have a tool for this. Check out [ethtpsctl](https://github.com/ethtps/ethtpsctl).
