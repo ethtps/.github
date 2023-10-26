@@ -10,6 +10,10 @@ You can check out our public repos [here](https://github.com/orgs/ethtps/reposit
 
 - [backend](https://github.com/ethtps/ethtps.backend) (API)
 
+- [frontend](https://github.com/ethtps/ethtps.frontend)
+
+- [control tool](https://github.com/ethtps/ethtpsctl)
+
 ## Disclaimer
 
 ##### ⚠️ Please note that this document is a work in progress and the information provided here is subject to change, in addition to the fact that trying to follow these instructions will be a complete waste of your time *unless* you have access to the private repos.
