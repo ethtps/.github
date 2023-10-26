@@ -10,6 +10,8 @@ You can check out our public repos [here](https://github.com/orgs/ethtps/reposit
 
 - [frontend](https://github.com/ethtps/ethtps.frontend)
 
+- [50,000 ft. architecture overview](https://github.com/ethtps/.github/blob/main/ARCHITECTURE.md)
+
 Please note that not all repos are public yet. We will make all required code public as soon as possible.
 
 If you want to help, check out the social media links at the top.
