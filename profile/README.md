@@ -1,12 +1,17 @@
-## Hi there 👋
+## Hello there!
 
-<!--
+Welcome to ETHTPS. This is the place for the second version of ethtps.info, a website that provides information about Ethereum network's the number of transactions per second and their complexity.
 
-**Here are some ideas to get you started:**
+The website is currently under construction and a public alpha will follow soon. The first version of the website can be found [here](https://ethtps.info/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can check out our public repos [here](https://github.com/orgs/ethtps/repositories). Here are some quick links to the most important ones:
+
+- [backend](https://github.com/ethtps/ethtps.backend) (API)
+
+- [frontend](https://github.com/ethtps/ethtps.frontend)
+
+Please note that not all repos are public yet. We will make all required code public as soon as possible.
+
+If you want to help, check out the social media links at the top.
+
+Ethereum.
